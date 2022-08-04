@@ -1,0 +1,60 @@
+
+List<Map<String,dynamic>> cartlist=[];
+List circle = [
+  {
+    'image':
+    'https://thumbs.dreamstime.com/b/pants-vector-icon-cartoon-isolated-white-background-logo-178171331.jpg'
+  },
+  {
+    'image':
+    'https://i.etsystatic.com/29647992/r/il/8c7226/3711415275/il_570xN.3711415275_ogsr.jpg'
+  },
+  {
+    'image':
+    'https://image.shutterstock.com/image-vector/long-sleeve-dress-shirt-isolated-260nw-1262562742.jpg'
+  },
+  {
+    'image':
+    'https://thumbs.dreamstime.com/z/white-fluffy-wedding-dress-girl-wedding-wear-women-clothing-single-icon-cartoon-style-vector-symbol-stock-web-88860170.jpg'
+  },
+  {
+    'image':
+    'https://i.pinimg.com/736x/d7/b0/81/d7b08187576de7692c17ba81353818b5.jpg'
+  },
+  {
+    'image':
+    'https://images.cdn1.stockunlimited.net/clipart/wristwatch-icon_2005031.jpg'
+  },
+  {
+    'image':
+    'https://cdn.w600.comps.canstockphoto.com/woman-handbag-hand-drawn-vector-fashion-eps-vectors_csp34790038.jpg'
+  },
+];
+List ladies = [
+  {
+    'image':
+    'https://www.khmertimeskh.com/wp-content/uploads/2022/03/Cambodias-first-HM-wows-the-crowds-on-opening-day-2.jpg'
+  },
+  {
+    'image':
+    'https://www.outfittrends.com/wp-content/uploads/2022/03/banarasi-saree-designs.png'
+  },
+  {
+    'image':
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_PLmmsk7RLr3KmAQi9KIYxx0AIiUVkhzcg&usqp=CAU',
+  },
+];
+List men = [
+  {
+    'image':
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrTAEL8HBHNtxRbVNGc8njeoXc7hJ0Yntp-XoUvYg3DQcMvlsrF12XI3mwbqrOvs9Hd0&usqp=CAU'
+  },
+  {
+    'image':
+    'https://www.dmarge.com/wp-content/uploads/2017/07/basics-480x290.jpg'
+  },
+  {
+    'image':
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykojGG_GCmVpfUCIRmcBMMPchaePjtSTWEPerjXD6FsZ96koXMpC3-Y8cEMngp5mDVXw&usqp=CAU'
+  },
+];
